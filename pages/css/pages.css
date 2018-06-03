@@ -15,4 +15,18 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
+.kleurtekst {
+    color: white;
+}
+
+.kleur  {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.rood   {
+    color:  #CD5D51;
+}
+
 /* Voeg jouw css hieraan toe */
