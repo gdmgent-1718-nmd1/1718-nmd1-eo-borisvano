@@ -12,12 +12,12 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 100%; /* Afbeeldingen responsive maken
 }
 
 .kleurtekst {
     background-color: yellow;
-}
+} */
 
 .kleur  {
     display: flex;
@@ -29,4 +29,10 @@ img {
     color:  #CD5D51;
 }
 
-/* Voeg jouw css hieraan toe */
+.zwart {
+    color: #3B3B3B;
+}
+
+.grijs  {
+    color: #D9D5C9;
+}
