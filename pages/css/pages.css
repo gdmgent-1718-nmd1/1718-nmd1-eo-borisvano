@@ -12,12 +12,12 @@ body {
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken
+    max-width: 100%;
 }
 
 .kleurtekst {
-    background-color: yellow;
-} */
+    background-color: #D9D5C9;
+}
 
 .kleur  {
     display: flex;
